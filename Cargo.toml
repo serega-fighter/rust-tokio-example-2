@@ -15,3 +15,7 @@ path = "src/examples/hello-redis.rs"
 [[bin]]
 name = "task_spawn_test"
 path = "src/utils/task_spawn_test.rs"
+
+[[bin]]
+name = "async_read_test"
+path = "src/utils/async_read_test.rs"
